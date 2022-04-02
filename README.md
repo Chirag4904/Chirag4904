@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" src="https://i.gifer.com/embedded/download/YCZM.gif">
+<img align="right" src="https://i.gifer.com/fetch/w300-preview/0d/0d0183d44abb37407142b860a8c6b4ce.gif">
 
 - 🔭 I’m currently working on [Creative-apple-site](https://github.com/Chirag4904/creative-apple-site)
 
