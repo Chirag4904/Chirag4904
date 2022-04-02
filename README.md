@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<div class="tenor-gif-embed" data-postid="19908614" data-share-method="host" data-aspect-ratio="1.05611" data-width="100%"><a href="https://tenor.com/view/missing-assignments-gif-19908614">Missing Assignments Sticker</a>from <a href="https://tenor.com/search/missing+assignments-stickers">Missing Assignments Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" src="https://c.tenor.com/0wGl6vtT9lIAAAAi/missing-assignments.gif">
 
 - 🔭 I’m currently working on [Creative-apple-site](https://github.com/Chirag4904/creative-apple-site)
 
