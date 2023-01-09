@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag4904&show_icons=true&locale=en" alt="chirag4904" /></p>
 
-![snake gif](https://github.com/Chirag4904/Chirag4904/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Chirag4904/Chirag4904/blob/output/github-contribution-grid-snake.gif) -->
