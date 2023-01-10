@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Threejs Blender**
+- 💬 Ask me about **Threejs Microservices Devops**
 
 - 📫 How to reach me **aggarwalchirag4904@gmail.com**
 
