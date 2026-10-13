@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Chirag 👋
+# Hey, I'm Chirag
 
 `ca_`
 
@@ -20,21 +20,17 @@ I build the systems behind the experience.
 
 ### `~/about-me`
 
-I'm a **Software Engineer II at HERE Technologies**, based in India. I work on search evaluation, data pipelines, and tools that help engineers understand system behaviour.
+I'm Chirag, a **Software Engineer II at HERE Technologies**. I work on systems that evaluate search quality—from parsing reports and storing results to comparing releases and helping engineers investigate what changed.
 
-- 🔧 I build backends, full-stack products, and the pipelines that ship them.
-- 🧠 I enjoy route matching, background workers, and figuring out why a system behaves the way it does.
-- 💬 Talk to me about **microservices, DevOps, or Three.js**.
-- 🎨 I also like the visual side of the web—interfaces, 3D, and small details that make a product feel good.
-- 🌱 Always learning by building, measuring, and improving.
+I also build products beyond my day job. My work spans carpool matching, event discovery, mobile apps, and the backend services that support them. I like taking a feature through the whole process: understanding the constraints, designing the data model, writing the code, and making it easier to deploy and debug.
 
-<sub>The penguin handles the typing. I handle the debugging.</sub>
+Most of my work is in **TypeScript, Node.js, and Python**, with **React and Flutter** on the frontend. I'm especially interested in background processing, system design, and deployment automation. I also enjoy experimenting with **Three.js** and the visual side of the web.
 
 <br clear="both" />
 
 ---
 
-### 🚀 Things I’ve built
+### Things I’ve built
 
 #### LetzGo · 2025
 **Carpooling that fits the commute.**
@@ -63,7 +59,7 @@ Built with my college team to help coordinators allocate teaching hours around f
 
 [Engineering case study](https://chiragaggarwal.cloud/ez-allocate.html) · [Source code](https://github.com/BentenOpsBalleBalle/ez-allocate)
 
-### 🛠 Languages & tools
+### Languages & tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" />
@@ -87,20 +83,6 @@ Built with my college team to help coordinators allocate teaching hours around f
 | Interfaces | React, Flutter, TanStack Query |
 | Delivery & infrastructure | Docker, Kubernetes, AWS, GitLab CI/CD |
 | Observability | OpenTelemetry, Grafana, Prometheus |
-
-<details>
-<summary><strong>📊 GitHub activity & languages</strong></summary>
-
-<br />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=chirag4904&show_icons=true&hide_border=true&theme=transparent&icon_color=888888" alt="Chirag's GitHub activity statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag4904&layout=compact&hide_border=true&theme=transparent" alt="Languages in Chirag's public GitHub repositories" height="165" />
-</p>
-
-<sub>Public repository statistics are only part of the picture. My portfolio covers the engineering behind my professional and project work.</sub>
-
-</details>
 
 ---
 
