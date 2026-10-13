@@ -1,26 +1,66 @@
-<h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<div align="center">
 
-<img align="right" width=200 src="https://c.tenor.com/0wGl6vtT9lIAAAAi/missing-assignments.gif">
+# `ca_` · Chirag Aggarwal
 
-- 🔭 I’m currently working on [POPIN](https://popin.city)
+**Software Engineer II · Backend & Full Stack**
 
-- 🌱 I’m currently learning **Backend Development**
+I build the systems behind the experience.
 
-- 💬 Ask me about **Threejs Microservices Devops**
+**[Explore my portfolio → chiragaggarwal.cloud](https://chiragaggarwal.cloud)**
 
-- 📫 How to reach me **aggarwalchirag4904@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/chirag-aggarwal-bu) · [Email](mailto:aggarwalchirag4904@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dribbble.com/chiggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="chiggs" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag4904&show_icons=true&locale=en&layout=compact" alt="chirag4904" /></p>
+### About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag4904&show_icons=true&locale=en" alt="chirag4904" /></p>
+I'm a software engineer at **HERE Technologies**, working on search evaluation platforms, data pipelines, and tools that help engineers understand system behaviour.
 
-<!-- ![snake gif](https://github.com/Chirag4904/Chirag4904/blob/output/github-contribution-grid-snake.gif) -->
+Outside that work, I've built carpooling and event-discovery products—from APIs and background workers to mobile apps, deployment pipelines, and monitoring. I enjoy understanding the problem, making the trade-offs, and following a feature through to production.
+
+### Selected work
+
+#### LetzGo · 2025
+**Carpooling that fits the commute.**
+
+Architected the backend for a platform serving **700+ users**. Built a four-tier route filter that reduced the candidate search space by **over 85%** before detailed mapping queries, alongside recurring schedules, live trip coordination, and payments.
+
+`Node.js` `PostgreSQL` `Redis / BullMQ` `Socket.IO` `Stripe Connect`
+
+[Engineering case study](https://chiragaggarwal.cloud/letzgo.html) · [Live website](https://letzgo.co)
+
+#### Popin · July 2025–February 2026
+**Discover nearby events. Deliver changes with confidence.**
+
+Built Flutter apps, a Node.js backend, and a React organizer dashboard. Worked on viewport-based discovery, asynchronous processing, and observability, plus GitLab CI/CD for backend deployment and automated Android releases. Led two engineering interns.
+
+`Flutter` `TypeScript` `React` `Docker` `GitLab CI/CD` `OpenTelemetry`
+
+[Engineering case study](https://chiragaggarwal.cloud/popin.html) · [Live website](https://popin.city)
+
+#### EZ-Allocate · 2023
+**A real college problem, solved as a team.**
+
+Built with my college team to help coordinators allocate teaching hours around faculty preferences and workload limits. We applied our DevOps specialization through separate authentication and allocation services, Docker deployment, and Celery workers for report exports.
+
+`React` `Django` `Node.js` `Celery / Redis` `Docker`
+
+[Engineering case study](https://chiragaggarwal.cloud/ez-allocate.html) · [Source code](https://github.com/BentenOpsBalleBalle/ez-allocate)
+
+### Toolbox
+
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Dart, SQL |
+| Backend & data | Node.js, Express, Django, PostgreSQL, MySQL, MongoDB, Prisma |
+| Background & real-time | Redis, BullMQ, Celery, Socket.IO |
+| Interfaces | React, Flutter, TanStack Query |
+| Delivery & infrastructure | Docker, Kubernetes, AWS, GitLab CI/CD |
+| Observability | OpenTelemetry, Grafana, Prometheus |
+
+---
+
+**Open to backend and full-stack opportunities.**  
+[See the architecture, decisions, and details behind my work →](https://chiragaggarwal.cloud)
